@@ -3,4 +3,4 @@
   X-Content-Type-Options: nosniff
   Content-Security-Policy: script-src 'self'
   Referrer-Policy: no-referrer
-  Feature-Policy: geolocation 'self' https://example.com; microphone 'none'
+  Permissions-Policy: geolocation=(self "https://example.com"), microphone=()
