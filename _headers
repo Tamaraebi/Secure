@@ -2,6 +2,4 @@
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Content-Security-Policy: script-src 'self'
-  Host: scotthelme.co.uk
-  Referer: https://twitter.com/Scott_Helme/status/760790725776830464
-  Upgrade-Insecure-Requests: 1
+  Referrer-Policy: no-referrer
